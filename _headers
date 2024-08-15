@@ -1,0 +1,3 @@
+/*
+X-Test-Prefetch: True
+Cache-Control: max-age 10, must-revalidate
